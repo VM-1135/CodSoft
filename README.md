@@ -1,1 +1,2 @@
-This is a internship repository.
+# Its mini project repository
+
